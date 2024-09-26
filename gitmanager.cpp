@@ -1,7 +1,7 @@
 #include "gitmanager.hpp"
 #include <vector>
 #include <string>
-const std::string GitManager::ACCESS_TOKEN = "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";
+const std::string GitManager::ACCESS_TOKEN = "";
 const std::string GitManager::USERNAME = "M-EMBABI";
 std::string GitManager::REPO_DEFUALT = "cpp-manage-git";
 GitManager::GitManager()
